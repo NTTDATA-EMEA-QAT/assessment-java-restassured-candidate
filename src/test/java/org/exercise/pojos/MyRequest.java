@@ -1,4 +1,4 @@
-package org.example.pojos;
+package org.exercise.pojos;
 
 public class MyRequest {
 }
