@@ -2,6 +2,9 @@ package org.exercise;
 
 import org.junit.Test;
 
+import io.restassured.RestAssured;
+import io.restassured.response.Response;
+
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
